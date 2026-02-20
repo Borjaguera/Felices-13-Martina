@@ -709,7 +709,7 @@ body::before{
     width:100%;
     height:100%;
 
-    background-image:url("imagenes-fondo/fondo-bali.avif");
+    background-image:url("fondo-bali.avif");
     background-size:cover;  /* 👈 proporcional */
     background-position:center;
     background-repeat:no-repeat;
